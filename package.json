@@ -1,0 +1,22 @@
+{
+	"name": "book_directory_nodejs",
+	"version": "0.1.0",
+	"description": "First training project to learn more about NodeJs",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"serve": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "book_directory_nodejs"
+	},
+	"author": "Gise Haag",
+	"license": "MIT",
+	"dependencies": {
+		"body-parser": "^1.19.0",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"mongoose": "^5.11.9"
+	}
+}

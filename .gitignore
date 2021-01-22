@@ -1,0 +1,11 @@
+#Config data
+.env
+
+#PDF files
+*.pdf
+
+#Node Modules
+/node_modules/
+
+#testing files
+/test/
